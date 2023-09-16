@@ -10,6 +10,14 @@ module.exports = {
       version: 'detect',
     },
   },
+  env: {
+    browser: true,
+    es2021: true,
+  },
+  parserOptions: {
+    sourceType: 'module',
+    ecmaVersion: 'latest',
+  },
   rules: {
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
