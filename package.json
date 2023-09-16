@@ -1,7 +1,15 @@
 {
   "name": "next13-template",
   "version": "0.1.0",
+  "description": "Next.js のテンプレート",
   "private": true,
+  "author": "Kaaaaazuya",
+  "homepage": "https://github.com/Kaaaaazuya/next13-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaaaaazuya/next13-template.git"
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -24,6 +32,10 @@
   },
   "volta": {
     "node": "18.17.1"
+  },
+  "engines": {
+    "pnpm": ">=8.7.0",
+    "node": ">=18.17.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.1.3",
