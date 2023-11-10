@@ -31,5 +31,7 @@ module.exports = {
     'react/no-children-prop': 'error',
     'react/no-danger-with-children': 'error',
     'react/jsx-no-bind': 'error',
+    'react/jsx-uses-react': 'off',
+    'react/react-in-jsx-scope': 'off',
   },
 }
