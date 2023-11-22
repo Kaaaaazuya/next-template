@@ -1,8 +1,10 @@
-<h1 align="center">Welcome to next13-template 👋</h1>
+<h1 align="center">Welcome to next-template 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/pnpm-%3E%3D8.7.0-blue.svg" />
-  <img src="https://img.shields.io/badge/node-%3E%3D18.17.1-blue.svg" />
+  <a href="https://www.npmjs.com/package/next-template" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/next-template.svg">
+  </a>
+  <img src="https://img.shields.io/badge/pnpm-8.10.5-blue.svg" />
+  <img src="https://img.shields.io/badge/node-21.2.0-blue.svg" />
   <a href="https://github.com/Kaaaaazuya/next13-template#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -10,7 +12,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/Kaaaaazuya/next13-template/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/Kaaaaazuya/next13-template" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/Kaaaaazuya/next-template" />
   </a>
 </p>
 
@@ -20,8 +22,8 @@
 
 ## Prerequisites
 
-- pnpm >=8.7.0
-- node >=18.17.1
+- pnpm 8.10.5
+- node 21.2.0
 
 ## Author
 
