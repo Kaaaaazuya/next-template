@@ -12,7 +12,6 @@ module.exports = {
   },
   env: {
     browser: true,
-    es2021: true,
   },
   parser: '@typescript-eslint/parser',
   parserOptions: {
@@ -26,8 +25,6 @@ module.exports = {
     'react/prop-types': 'error',
     'react/require-default-props': 'error',
     'react/no-array-index-key': 'error',
-    'react/react-in-jsx-scope': 'error',
-    'react/jsx-uses-react': 'error',
     'react/display-name': 'error',
     'react/no-children-prop': 'error',
     'react/no-danger-with-children': 'error',
