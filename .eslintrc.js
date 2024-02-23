@@ -31,5 +31,22 @@ module.exports = {
     'react/jsx-no-bind': 'error',
     'react/jsx-uses-react': 'off',
     'react/react-in-jsx-scope': 'off',
+    'react/destructuring-assignment': 'error',
+    'react/function-component-definition': [
+      'error',
+      {
+        namedComponents: 'arrow-function',
+        unnamedComponents: 'arrow-function',
+      },
+    ],
+    'react/hook-use-state': 'error',
+    'react/jsx-boolean-value': 'error',
+    'react/jsx-fragments': 'error',
+    'react/jsx-curly-brace-presence': 'error',
+    'react/jsx-no-useless-fragment': 'error',
+    'react/jsx-sort-props': 'error',
+    'react/self-closing-comp': 'error',
+    'react/jsx-pascal-case': 'error',
+    'react/no-danger': 'error',
   },
 }
